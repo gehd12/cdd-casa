@@ -1,0 +1,5 @@
+nome = input("Gemison")
+idade = int (22)
+tel = int ("9997243966")
+temp = float (24.5)
+idade2 = str(idade)
